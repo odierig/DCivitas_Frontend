@@ -102,7 +102,7 @@ const stats = [
   { end: 25, suffix: "+", label: "Nonprofit Partners" },
   { end: 50, suffix: "+", label: "Student Consultants" },
   { end: 150, suffix: "+", label: "Hours of Work per Team" },
-  { end: 4, suffix: "", label: "Years Serving the DMV" },
+  { end: 9, suffix: "", label: "Years Serving the DMV" },
 ];
 
 function Stats() {
