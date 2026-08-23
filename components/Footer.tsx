@@ -48,7 +48,7 @@ export default function Footer() {
             <Image
               src="/logos/NewDCivitasLogo_white.png"
               alt="DCivitas"
-              width={140}
+              width={129}
               height={48}
               className="h-10 w-auto object-contain mb-4"
               style={{

@@ -43,7 +43,7 @@ export default function Navbar() {
             <Image
               src={scrolled ? "/logos/NewDCivitasLogo_black.png" : "/logos/NewDCivitasLogo_white.png"}
               alt="DCivitas"
-              width={120}
+              width={108}
               height={40}
               className="h-8 w-auto object-contain"
               style={{

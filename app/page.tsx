@@ -21,7 +21,7 @@ function Hero() {
         <Image
           src="/logos/NewDCivitasLogo_white.png"
           alt="DCivitas"
-          width={160}
+          width={135}
           height={50}
           className="h-10 w-auto object-contain"
           style={{ filter: "brightness(0) invert(1)" }}
