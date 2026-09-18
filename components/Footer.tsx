@@ -11,7 +11,6 @@ const aboutLinks = [
 const engageLinks = [
   { label: "Client Services", href: "/services" },
   { label: "Partners", href: "/partners" },
-  { label: "Impact Stories", href: "/impact" },
   { label: "Join Us", href: "/join-us" },
   { label: "Work with Us", href: "/work-with-us" },
 ];

@@ -9,8 +9,8 @@ import { CheckCircle, Clock, Users, Lightbulb } from "lucide-react";
 const expectations = [
   {
     icon: Clock,
-    title: "One Semester",
-    body: "Engagements run the length of an academic semester, roughly four months. Your team commits to weekly check-ins and gives our consultants access to the information they need to do good work.",
+    title: "One Year",
+    body: "Engagements run the length of a full academic year, roughly nine months. Your team commits to weekly check-ins and gives our consultants access to the information they need to do good work.",
   },
   {
     icon: Users,
