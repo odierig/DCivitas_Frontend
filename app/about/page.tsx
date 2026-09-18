@@ -395,10 +395,10 @@ export default function About() {
         name="Project Teams"
         photo="/images/peoplephotos/projectteam1.jpg"
         photoAlt="DCivitas Project Team"
-        description="Project Teams are the core of DCivitas — small groups of consultants embedded with a single nonprofit partner for an entire semester. Each team works through real challenges from kickoff to final deliverable, developing genuine consulting skills along the way."
+        description="Project Teams are the core of DCivitas — small groups of consultants embedded with a single nonprofit partner for an entire year. Each team works through real challenges from kickoff to final deliverable, developing genuine consulting skills along the way."
         points={[
           "Teams of 4–6 consultants led by 1–2 Project Managers",
-          "Deep focus on a single nonprofit client per semester",
+          "Deep focus on a single nonprofit client per year",
           "Covers operations, strategy, marketing, and data work",
           "Consultants may request placement with a specific nonprofit",
         ]}
